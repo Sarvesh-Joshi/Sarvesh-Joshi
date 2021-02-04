@@ -45,5 +45,5 @@
     </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-Sarvesh-Joshi&layout=compact&theme=midnight-purple" alt="Devesh-19" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-Sarvesh-Joshi&show_icons=true&theme=midnight-purple" alt="Devesh-19" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-Joshi&layout=compact&theme=midnight-purple" alt="Devesh-19" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarvesh-Joshi&show_icons=true&theme=midnight-purple" alt="Devesh-19" /></p>
