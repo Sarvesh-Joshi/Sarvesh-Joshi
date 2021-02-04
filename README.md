@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Prudhvi Raj</h1>
+<h1 align="center">Hi 👋🏻, I'm Sarvesh Joshi</h1>
 <h3 align="center">I'm a Student, Developer, Learner!</h3>
 
 
@@ -8,13 +8,13 @@
 
 - 💬 Ask me about **HTML, C, C++, C#, Python, Java, XML, Express.js, MongoDB**
 
-- 📧 How to reach me? **Connect to me via Email [Prudhvi](mailto:190330039@klh.edu.in)**
+- 📧 How to reach me? **Connect to me via Email [Sarvesh](mailto:190330218@klh.edu.in)**
 
 - ⚡ Fun fact: **I love to listen to music**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.codechef.com/users/klh190330039" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1347119566623711232/WmTasleL_400x400.jpg" alt="buckshot" height="30" width="40" /> </a>
+<a href="https://www.codechef.com/users/sarvesh0517" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1347119566623711232/WmTasleL_400x400.jpg" alt="buckshot" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,5 +45,5 @@
     </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-prudhvi&layout=compact&theme=midnight-purple" alt="Devesh-19" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-prudhvi&show_icons=true&theme=midnight-purple" alt="Devesh-19" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-Sarvesh-Joshi&layout=compact&theme=midnight-purple" alt="Devesh-19" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-Sarvesh-Joshi&show_icons=true&theme=midnight-purple" alt="Devesh-19" /></p>
