@@ -1,16 +1,74 @@
-### Hi there 👋
+## Namaste :pray:
 
-<!--
-**Sarvesh-Joshi/Sarvesh-Joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://doi.org/10.1080/1206212X.2020.1759857">
+  <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/research.svg" alt="Co-Authored Research" width="24px" height="24px">
+</a>
+<a href="https://www.hackerrank.com/siddharthchandr1">
+  <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/hackerrank.svg" alt="Siddharth's HackerRank" width="25px" height="25px">
+</a>
+<a href="https://leetcode.com/chandraji/">
+  <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/leetcode.svg" alt="Siddharth's LeetCode" width="25px" height="24px">
+</a>
+<a href="https://siddharth2016.github.io/">
+  <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/github.svg" alt="Siddharth's GitHub" width="25px" height="24px">
+</a>
+<a href="https://dev.to/siddharth2016">
+  <img src="images/dev.svg" alt="Siddharth Chandra's DEV Profile" height="24px" width="24px">
+</a>
+<a href="https://twitter.com/CodeKaro_">
+  <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/twitter_color.svg" alt="CodeKaro Twitter Account" height="24px" width="24px">
+</a>
+<a href="https://www.linkedin.com/in/siddharth-chandra1/">
+  <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/linkedin.svg" alt="Siddharth's LinkedIn" width="24px" height="24px">
+</a>
+<a href="https://blog.codekaro.info/">
+  <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/hashnode.svg" alt="Siddharth's Blog" width="23px" height="24px">
+</a>
+<a href="https://github.com/marketplace/actions/update-image-readme">
+<!--START_SECTION:update_image-->
+<img src=https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/.github/images/image17.png height=180px width=180px align=right alt=Code Karo Image />
+<!--END_SECTION:update_image-->
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Namaste :pray: I am a Software Engineer and a Full Stack Developer hooked on <img alt="Python Icon" height="20px" width="20px" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/python.svg" />
+
+Besides programming, I enjoy reading OSFY, mythology, fiction, personal finance and manga.
+
+Often Failing, Always Learning ✌
+
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝The Space Invaders game was intended to always be played at the same speed, but as you destroy more aliens, the computer can render faster. This is why the aliens speed up as you near the end of the level.❞</i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+
+#### ⛄ [Hello Open Source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
+
+#### ✍ [My Learning List](https://github.com/siddharth2016/my-learning#my-learning)
+
+#### 👨‍💻 [My Blog Posts](https://blog.codekaro.info/)
+<!-- BLOG-POST-LIST:START -->
+- [Making PongPong ! The End 🤝](https://blog.codekaro.info/making-pongpong-the-end)
+- [Making PONGPONG - Game Development using Pyglet - Part 3](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-3)
+- [Making PONGPONG - Game Development using Pyglet - Part 2](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-2)
+- [Making PONGPONG - Game Development using Pyglet - Part 1](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-1)
+- [My Top 5 Python Libraries, I used in 2020 !](https://blog.codekaro.info/my-top-5-python-libraries-i-used-in-2020)
+<!-- BLOG-POST-LIST:END -->
+
+#### 📈 My Weekly Stats
+<!--START_SECTION:waka-->
+```text
+Week: 27 January, 2021 - 03 February, 2021
+
+Scala        8 hrs 29 mins   ███████████████████████▓░   95.14 % 
+Python       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+```
+<!--END_SECTION:waka-->
+
+
+<img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=siddharth2016&theme=graywhite&show_icons=true&include_all_commits=true" />
